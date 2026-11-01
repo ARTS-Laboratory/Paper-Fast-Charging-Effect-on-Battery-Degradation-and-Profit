@@ -1,4 +1,4 @@
-# Paper 2027 Fast Charging Effect on Battery Degradation and Profit
+# Paper Fast Charging Effect on Battery Degradation and Profit
 
 
 
