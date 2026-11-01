@@ -24,12 +24,13 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@Misc{ARTSLabPaper2027Battery,    
+@Misc{ARTSLab2026PaperFastCharging,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {Paper 2027 Fast Charging Effect on Battery Degradation and Profit},    
+  year = {2026},   
+  title  = {Paper Fast Charging Effect on Battery Degradation and Profit},    
   groups = {ARTS-Lab},    
-  url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/ARTS-Laboratory/Paper-2027-Fast-Charging-Effect-on-Battery-Degradation-and-Profit},   
+  url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/ARTS-Laboratory/Paper-Fast-Charging-Effect-on-Battery-Degradation-and-Profit},   
 }
 
 <p align="center">
